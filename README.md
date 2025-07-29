@@ -1,4 +1,5 @@
-### 🥋 A3C for Kung Fu Karate – Reinforcement Learning Agent - https://colab.research.google.com/drive/1iMgoGsLP8RgHeiFm1Ro0RNhPkGpxiq-5?usp=drive_link
+### 🥋 A3C for Kung Fu Karate – Reinforcement Learning Agent 
+https://colab.research.google.com/drive/1iMgoGsLP8RgHeiFm1Ro0RNhPkGpxiq-5?usp=drive_link
 
 This project implements an *A3C (Asynchronous Advantage Actor-Critic)* reinforcement learning algorithm to train an agent for a custom *Kung Fu Karate environment*, enabling it to learn complex martial arts moves, defend itself, and win battles through trial and error.
 
