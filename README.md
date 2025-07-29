@@ -39,6 +39,6 @@ This project implements an *A3C (Asynchronous Advantage Actor-Critic)* reinforce
 * Learned to *strategically block and counter-attack*
 * Demonstrated *smooth learning curve* and policy stability
 
-* ![WhatsApp Image 2025-07-30 at 02 26 28_a95e97b0](https://github.com/user-attachments/assets/a2d811b4-86cd-492f-af0d-65cd8ebd405d)
-* ![WhatsApp Image 2025-07-30 at 02 26 58_3dde812f](https://github.com/user-attachments/assets/f973e709-c423-4faa-ac18-9e59a78e02cd)
+* ![WhatsApp Image 2025-07-30 at 02 26 28_a95e97b0](https://github.com/user-attachments/assets/a2d811b4-86cd-492f-af0d-65cd8ebd405d)   ![WhatsApp Image 2025-07-30 at 02 26 58_77b9c340](https://github.com/user-attachments/assets/2d83650a-1e51-4ac7-850c-f9cdd691c03d)
+
 
